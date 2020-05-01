@@ -1,0 +1,17 @@
+{
+  "name": "tslint-config",
+  "version": "1.0.0",
+  "description": "H&L Standard TSLint Configuration",
+  "main": "tslint.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "tslint": ">= 5.20.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "H&L Australia",
+  "license": "ISC"
+}
